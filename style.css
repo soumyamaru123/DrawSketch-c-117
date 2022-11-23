@@ -1,0 +1,18 @@
+body{
+    background: greenyellow;
+}
+h3{
+    background: yellow;
+}
+#show_sketch{
+    float:right;
+}
+#sketch{
+    color: coral;
+}
+#score{
+    float: left;
+}
+#time{
+    float: right;
+}
